@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "S1-01",
+      "filename": "adsense_s1_01_cafe_overview.png",
+      "title": "カフェ全景（復活後の藤原）",
+      "prompt": "Scene: A bright, modern Japanese cafe interior with large windows letting in warm morning sunlight. A Japanese man (age 34, slightly thin build, wearing glasses, brown hoodie) is sitting at a wooden table with a laptop open in front of him. He has a genuinely relaxed, content smile. The cafe has plants, warm wood tones, and a cozy atmosphere. Camera angle: wide establishing shot showing the cafe atmosphere and the man. Warm, hopeful mood."
+    },
+    {
+      "id": "S1-02",
+      "filename": "adsense_s1_02_pc_revenue_graph.png",
+      "title": "PC画面アップ（複数の収益グラフ）",
+      "prompt": "Scene: Close-up of a laptop screen showing multiple colorful revenue graphs and charts trending upward. Three distinct graph lines in different colors (blue, green, orange) all showing positive growth. The screen has a dashboard-like interface. The laptop is on a wooden cafe table with a coffee cup nearby. Soft natural lighting from a window. Camera angle: over-the-shoulder view focusing on the screen. Clean, professional, optimistic feeling."
+    },
+    {
+      "id": "S1-03",
+      "filename": "adsense_s1_03_fujiwara_smile.png",
+      "title": "藤原の笑顔クローズアップ",
+      "prompt": "Scene: Close-up portrait of a young Japanese man (age 34, thin build, wearing round glasses, messy brown hair, wearing a casual brown hoodie). He has a warm, genuine smile with slightly squinted eyes showing real happiness. Soft golden backlighting from a cafe window creates a warm halo effect. The background is a blurred cafe interior. Camera angle: medium close-up, slightly from below. Warm, inviting, 'everything will be okay' mood."
+    },
+    {
+      "id": "S1-04",
+      "filename": "adsense_s1_04_three_revenue_pillars.png",
+      "title": "3本の収益の柱グラフ",
+      "prompt": "Scene: A clean infographic-style illustration showing three strong pillars standing side by side, each a different color (blue, green, orange). The pillars represent three revenue streams. Above them is a bright sky with golden sunshine. The pillars stand on a solid foundation. Around the pillars are small icons suggesting: a play button (YouTube), a chat message icon (LINE), and a handshake icon (consulting). Camera angle: straight-on, symmetrical composition. Bright, stable, reassuring mood. No text or labels."
+    },
+    {
+      "id": "S1-05",
+      "filename": "adsense_s1_05_dark_shadow_past.png",
+      "title": "過去の暗い影（フラッシュバック）",
+      "prompt": "Scene: A dark, moody silhouette of a man sitting hunched over at a desk in a dimly lit room. The only light source is a computer monitor casting a cold blue glow on his face. The man's posture shows despair - head in hands, shoulders slumped. Papers and documents are scattered on the desk. The room feels isolated and oppressive. Heavy shadows dominate the scene. Camera angle: medium shot from the side. Dark, lonely, desperate mood. Strong contrast with cold blue light."
+    },
+    {
+      "id": "S1-06",
+      "filename": "adsense_s1_06_cafe_window_light.png",
+      "title": "カフェの窓から差し込む光（希望）",
+      "prompt": "Scene: Beautiful warm golden sunlight streaming through a large cafe window, creating long warm light beams across a wooden table. A coffee cup sits on the table catching the light. Dust particles float gently in the sunbeams. Outside the window, a peaceful Japanese street with trees is visible. The lighting creates a strong sense of warmth, new beginnings, and hope. Camera angle: low angle looking toward the window. Warm, ethereal, hopeful atmosphere. Cinematic quality."
+    }
+  ]
+}

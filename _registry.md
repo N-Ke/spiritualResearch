@@ -19,6 +19,15 @@
 | CH011 | CH011-VID001 | TH-CH011-VID001-01 | 龍神巫女かぐら | 再生借金完済龍神ヒーリング | `30_チャンネル調査/CH011_龍神巫女かぐら/VID001_20260408_再生借金完済龍神ヒーリング/research.md` | `30_チャンネル調査/CH011_龍神巫女かぐら/VID001_20260408_再生借金完済龍神ヒーリング/assets/TH-CH011-VID001-01.jpg` |
 | CH012 | CH012-VID001 | TH-CH012-VID001-01 | 潜在意識OS【BAZZI】 | 悪用不可洗脳理想の自分 | `30_チャンネル調査/CH012_潜在意識OS_BAZZI/VID001_20241225_洗脳理想の自分/research.md` | `30_チャンネル調査/CH012_潜在意識OS_BAZZI/VID001_20241225_洗脳理想の自分/assets/TH-CH012-VID001-01.jpg` |
 | CH013 | CH013-VID001 | TH-CH013-VID001-01 | Kenji Spirit | 人生は逆努力やめハードモード卒業 | `30_チャンネル調査/CH013_Kenji_Spirit/VID001_20260329_人生は逆ハードモード卒業/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID001_20260329_人生は逆ハードモード卒業/assets/TH-CH013-VID001-01.jpg` |
+| CH013 | CH013-VID002 | TH-CH013-VID002-01 | Kenji Spirit | 実証済み1年で人生根こそぎ変える | `30_チャンネル調査/CH013_Kenji_Spirit/VID002_20251223_実証済み1年で人生根こそぎ変える/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID002_20251223_実証済み1年で人生根こそぎ変える/assets/TH-CH013-VID002-01.jpg` |
+| CH013 | CH013-VID003 | TH-CH013-VID003-01 | Kenji Spirit | 鳥肌コレやめるだけ現実が変わる | `30_チャンネル調査/CH013_Kenji_Spirit/VID003_20210217_鳥肌コレやめるだけ現実が変わる/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID003_20210217_鳥肌コレやめるだけ現実が変わる/assets/TH-CH013-VID003-01.jpg` |
+| CH013 | CH013-VID004 | TH-CH013-VID004-01 | Kenji Spirit | 緊急配信変化の兆し3パターン | `30_チャンネル調査/CH013_Kenji_Spirit/VID004_20200908_緊急配信変化の兆し3パターン/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID004_20200908_緊急配信変化の兆し3パターン/assets/TH-CH013-VID004-01.jpg` |
+| CH013 | CH013-VID005 | TH-CH013-VID005-01 | Kenji Spirit | 別人レベル波動アップ | `30_チャンネル調査/CH013_Kenji_Spirit/VID005_20201217_別人レベル波動アップ/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID005_20201217_別人レベル波動アップ/assets/TH-CH013-VID005-01.jpg` |
+| CH013 | CH013-VID006 | TH-CH013-VID006-01 | Kenji Spirit | もうダメな時に使う想像以上(すごい) | `30_チャンネル調査/CH013_Kenji_Spirit/VID006_20220525_もうダメな時に使う想像以上/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID006_20220525_もうダメな時に使う想像以上/assets/TH-CH013-VID006-01.jpg` |
+| CH013 | CH013-VID007 | TH-CH013-VID007-01 | Kenji Spirit | 12月22日までに絶対にするべき事 | `30_チャンネル調査/CH013_Kenji_Spirit/VID007_20201126_12月22日までに絶対にするべき事/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID007_20201126_12月22日までに絶対にするべき事/assets/TH-CH013-VID007-01.jpg` |
+| CH013 | CH013-VID008 | TH-CH013-VID008-01 | Kenji Spirit | 祝福すごいスピードで現実が変わる人サイン | `30_チャンネル調査/CH013_Kenji_Spirit/VID008_20210102_祝福すごいスピード現実変わる人サイン/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID008_20210102_祝福すごいスピード現実変わる人サイン/assets/TH-CH013-VID008-01.jpg` |
+| CH013 | CH013-VID009 | TH-CH013-VID009-01 | Kenji Spirit | シンクロゾロ目を頻繁に見る | `30_チャンネル調査/CH013_Kenji_Spirit/VID009_20210214_シンクロゾロ目頻繁に見る/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID009_20210214_シンクロゾロ目頻繁に見る/assets/TH-CH013-VID009-01.jpg` |
+| CH013 | CH013-VID010 | TH-CH013-VID010-01 | Kenji Spirit | 超解説潜在意識心の奥底知ってる | `30_チャンネル調査/CH013_Kenji_Spirit/VID010_20210711_超解説潜在意識心の奥底知ってる/research.md` | `30_チャンネル調査/CH013_Kenji_Spirit/VID010_20210711_超解説潜在意識心の奥底知ってる/assets/TH-CH013-VID010-01.jpg` |
 
 ### チャンネルのみ登録（動画リサーチ未）
 

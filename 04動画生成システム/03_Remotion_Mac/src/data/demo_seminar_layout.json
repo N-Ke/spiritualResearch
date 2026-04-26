@@ -1,0 +1,151 @@
+{
+    "title": "AdSense Dependency",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "panels": [
+        {
+            "id": "P1",
+            "title": "Scene 1",
+            "image": "adsense_s1_01_cafe_overview.png",
+            "startFrame": 0,
+            "durationFrames": 94,
+            "kenBurns": {
+                "scaleStart": 1.0,
+                "scaleEnd": 1.05,
+                "xStart": 0,
+                "xEnd": 0,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "これ、面白い話があるんだけど。",
+                    "startFrame": 8,
+                    "durationFrames": 86
+                }
+            ],
+            "audio": "s1_nar_01_hook_with_tags.mp3"
+        },
+        {
+            "id": "P2",
+            "title": "Scene 2",
+            "image": "adsense_s1_02_pc_revenue_graph.png",
+            "startFrame": 94,
+            "durationFrames": 188,
+            "kenBurns": {
+                "scaleStart": 1.05,
+                "scaleEnd": 1.05,
+                "xStart": -2,
+                "xEnd": 2,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "今から話す男は、\nアドセンスだけで月{50万円}を稼いでいた。",
+                    "startFrame": 26,
+                    "durationFrames": 161
+                }
+            ],
+            "audio": ""
+        },
+        {
+            "id": "P3",
+            "title": "Scene 3",
+            "image": "adsense_s1_03_fujiwara_smile.png",
+            "startFrame": 283,
+            "durationFrames": 117,
+            "kenBurns": {
+                "scaleStart": 1.0,
+                "scaleEnd": 1.06,
+                "xStart": 0,
+                "xEnd": 0,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "でも、\nある日{突然}それがほぼ{ゼロ}になった。",
+                    "startFrame": 6,
+                    "durationFrames": 111
+                }
+            ],
+            "audio": ""
+        },
+        {
+            "id": "P4",
+            "title": "Scene 4",
+            "image": "adsense_s1_04_three_revenue_pillars.png",
+            "startFrame": 400,
+            "durationFrames": 203,
+            "kenBurns": {
+                "scaleStart": 1.05,
+                "scaleEnd": 1.0,
+                "xStart": 0,
+                "xEnd": 0,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "今、彼は{笑って}いる。",
+                    "startFrame": 7,
+                    "durationFrames": 52
+                },
+                {
+                    "text": "アドセンスだけじゃない、\n{3つ}の{収益の柱}を持って。",
+                    "startFrame": 59,
+                    "durationFrames": 143
+                }
+            ],
+            "audio": ""
+        },
+        {
+            "id": "P5",
+            "title": "Scene 5",
+            "image": "adsense_s1_05_dark_shadow_past.png",
+            "startFrame": 604,
+            "durationFrames": 148,
+            "kenBurns": {
+                "scaleStart": 1.0,
+                "scaleEnd": 1.05,
+                "xStart": 0,
+                "xEnd": 0,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "僕はね、{12年}YouTubeをやってきて、\nこういう人を何人も見てきた。",
+                    "startFrame": 7,
+                    "durationFrames": 141
+                }
+            ],
+            "audio": ""
+        },
+        {
+            "id": "P6",
+            "title": "Scene 6",
+            "image": "adsense_s1_06_cafe_window_light.png",
+            "startFrame": 753,
+            "durationFrames": 86,
+            "kenBurns": {
+                "scaleStart": 1.0,
+                "scaleEnd": 1.03,
+                "xStart": 0,
+                "xEnd": 0,
+                "yStart": 0,
+                "yEnd": 0
+            },
+            "telopSegments": [
+                {
+                    "text": "今日は彼の話をしたいんです。",
+                    "startFrame": 39,
+                    "durationFrames": 46
+                }
+            ],
+            "audio": ""
+        }
+    ]
+}

@@ -1,4 +1,45 @@
+# OS / Editor
 .DS_Store
 Thumbs.db
 desktop.ini
 .obsidian/
+.vscode/
+.idea/
+*.swp
+
+# Node.js
+node_modules/
+
+# Build / cache
+.cache/
+out/
+dist/
+build/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# 動画生成の出力・素材（GitHub の 100MB 制限超過のため除外）
+# 必要なら Git LFS 導入を検討
+04動画生成システム/03_Remotion/out/
+04動画生成システム/03_Remotion_Mac/out/
+04動画生成システム/04_素材/動画/
+
+# Notion / API クレデンシャル類（誤コミット防止）
+*.env
+.env.*
+credentials.json
+secret.json
