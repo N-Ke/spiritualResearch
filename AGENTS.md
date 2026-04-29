@@ -12,6 +12,30 @@ YouTube スピ系（金運・潜在意識等）の **市場リサーチ** を、
 - 属人依存の要素と、テンプレ化して移植できる要素を分け、**自分のチャンネルの勝ちパターン** に変換する。
 - 単発の気づきは `research.md` や `調査_CH###` に残し、**結論は `_genre_sheet.md` に集約** して次の企画判断に使える形にする。
 
+## 進捗管理（Block Ledger 方式・2026-04-29 追加）
+
+自チャンネル「Aya Mind｜頑張らない潜在意識」の制作物（YouTube動画・note 有料記事・LINE特典等）の進行管理は、ミナトプロジェクト由来の **Block Ledger 方式** を採用する。
+
+- **不変設定の正本**: [memory/master_ledger.md](memory/master_ledger.md)（北極星・声・商品・不変ルール・Block 索引）
+- **成果物単位の進行台帳**: [memory/blocks/](memory/blocks/)（works/ = 作品、assets/ = 横断資料）
+- **進捗の現在地**: [memory/now.md](memory/now.md)（今日の3アクション）
+- **時系列アーカイブ**: [memory/session_handoff.md](memory/session_handoff.md)（読み返し不要）
+- **更新コマンド**: `/handoff-update {block}`（[.claude/commands/handoff-update.md](.claude/commands/handoff-update.md)）
+- **テンプレ**: [memory/block_ledger_template.md](memory/block_ledger_template.md)
+
+元プロンプト：[`docs/shared/templates/setup_block_ledger.md`](../../../../docs/shared/templates/setup_block_ledger.md)（vault 共有テンプレ）。
+
+### 衝突解決：既存運用との並存
+
+既存の `_registry.md` / `_genre_registry.md` / `_genre_sheet.md` は **チャンネル調査・ジャンル分析の SoT として維持**。Block Ledger 方式は **自チャンネルの新規制作物のみ**（OWN-VID-XX、OWN-NOTE-XX、LINE-* 等）に適用する。
+
+| 種別 | 適用システム | ID 例 |
+|---|---|---|
+| 既存：他チャンネルの調査・分析 | `_registry.md` / `_channel_index.md` / `_genre_sheet.md` | CH###、VID###、G### |
+| 新規：自チャンネルの制作物 | Block Ledger（`memory/blocks/`） | OWN-VID-XX、OWN-NOTE-XX、LINE-* |
+
+ID 規約は別系統で衝突しない。エージェントは **自チャンネルの制作物作業 = Block Ledger**、**他チャンネル調査・ジャンル分析作業 = 既存システム** と判断して使い分ける。
+
 ## ユーザー誘導の原則
 
 - 要約依頼でも、可能なら **「なぜこの構成なのか」** を説明する。
